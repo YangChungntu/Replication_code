@@ -2,27 +2,27 @@
 
 Content:  
 code:  
-  simulation_code:  
-    ZI_default.ipynb 
-    ZI_small.ipynb  
-    ZI_large_1.ipynb  
-    ZI_large_comp.ipynb  
-    ZI_unsorted.ipynb 
-    ZI_random_draw.ipynb 
-    ZI_iteration.ipynb 
-    ZI_uniform.ipynb.  
-  packages_functions.R  
-  viz.Rmd  
+- simulation_code:  
+  - ZI_default.ipynb 
+  - ZI_small.ipynb  
+  - ZI_large_1.ipynb  
+  - ZI_large_comp.ipynb  
+  - ZI_unsorted.ipynb 
+  - ZI_random_draw.ipynb 
+  - ZI_iteration.ipynb 
+  - ZI_uniform.ipynb.  
+- packages_functions.R  
+- viz.Rmd  
   
 data:  
-  simulation_output.dta  
-  simulation_output_small.dta  
-  simulation_output_large_1.dta  
-  simulation_output_large_2.dta   
-  simulation_output_large_3.dta  
-  simulation_output_large_4.dta  
-  simulation_output_large_5.dta  
-  market_large_configurations.dta  
+- simulation_output.dta  
+- simulation_output_small.dta  
+- simulation_output_large_1.dta  
+- simulation_output_large_2.dta   
+- simulation_output_large_3.dta  
+- simulation_output_large_4.dta  
+- simulation_output_large_5.dta  
+- market_large_configurations.dta  
 
 1. Zero-intelligence simulation  
 Go to the folder "code/simulation_code". 
