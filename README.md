@@ -25,7 +25,7 @@ data:
 - market_large_configurations.dta  
 
 1. Zero-intelligence simulation  
-Go to the folder "code/simulation_code". 
+Go to the folder "code/simulation_code".   
 Code for the simulation results in Table 6:  
 ZI_default.ipynb...default. 
 ZI_small.ipynb...small market. 
