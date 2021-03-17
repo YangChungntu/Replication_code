@@ -27,10 +27,10 @@ data:
 1. Zero-intelligence simulation  
 Go to the folder "code/simulation_code".   
 Code for the simulation results in Table 6:  
-ZI_default.ipynb...default. 
-ZI_small.ipynb...small market. 
-ZI_large_1.ipynb...large market 1. 
-ZI_large_comp.ipynb...large market 2, 3, 4, 5. 
+ZI_default.ipynb...default  
+ZI_small.ipynb...small market  
+ZI_large_1.ipynb...large market 1  
+ZI_large_comp.ipynb...large market 2, 3, 4, 5   
 Code for the simulation results in Table 9:  
 ZI_unsorted.ipynb...row 3  
 ZI_random_draw.ipynb...row 4  
