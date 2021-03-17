@@ -1,10 +1,10 @@
 # Replication_code
 
 Content:
-code:
-  simulation_code:
-    ZI_default.ipynb
-    ZI_small.ipynb
+\code:
+  \simulation_code:
+    \ZI_default.ipynb
+    \ZI_small.ipynb
     ZI_large_1.ipynb
     ZI_large_comp.ipynb
     ZI_unsorted.ipynb
