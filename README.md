@@ -1,6 +1,6 @@
 # Replication_code
 
-Content:  
+## Content  
 code:  
 > simulation_code:  
 >> ZI_default.ipynb 
@@ -24,6 +24,11 @@ data:
 > simulation_output_large_5.dta  
 > market_large_configurations.dta  
 
+## Enviroment  
+Python 3.8.5  
+R      4.0.3  
+
+## Discribtion
 
 1. Zero-intelligence simulation  
     Go to the folder "code/simulation_code".   
