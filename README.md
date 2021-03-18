@@ -38,7 +38,10 @@ ZI_iteration.ipynb...row 5
 ZI_uniform.ipynb...row 6  
 
 2. data visualization  
-viz.Rmd generates all the figures in the report.  
+Run viz.Rmd for all the figures in the report.  
 packages_functions.R...packege setting and functions for viz.Rmd
 
-The folder "data" contains data needed in viz.Rmd. "market_large_configurations.dta" is a processed version of data from Lin et al. All other data are ZI simulation results that can be generate using our code.
+The folder "data" contains data needed in viz.Rmd. "market_large_configurations.dta" is a processed version of data from Lin et al. All other data are ZI simulation results that can be generate using our code.  
+
+Refferences
+http://people.brandeis.edu/~blebaron/classes/agentfin/GodeSunder.html
