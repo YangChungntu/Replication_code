@@ -24,6 +24,8 @@ data:
 - simulation_output_large_5.dta  
 - market_large_configurations.dta  
 
+
+
 1. Zero-intelligence simulation  
 Go to the folder "code/simulation_code".   
 a. Results in Table 6:  
@@ -31,7 +33,6 @@ a. Results in Table 6:
 -  ZI_small.ipynb...small market  
 - ZI_large_1.ipynb...large market 1  
 - ZI_large_comp.ipynb...large market 2, 3, 4, 5   
-
 
 b. Results in Table 9:  
 - ZI_unsorted.ipynb...row 3  
