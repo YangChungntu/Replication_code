@@ -27,9 +27,9 @@ data:
 
 1. Zero-intelligence simulation  
 Go to the folder "code/simulation_code".   
-Results in Table 6:  
+Results in Table 6: 
 - ZI_default.ipynb...default  
--  ZI_small.ipynb...small market  
+- ZI_small.ipynb...small market  
 - ZI_large_1.ipynb...large market 1  
 - ZI_large_comp.ipynb...large market 2, 3, 4, 5   
 Results in Table 9:  
