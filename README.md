@@ -26,17 +26,19 @@ data:
 
 
 1. Zero-intelligence simulation  
-Go to the folder "code/simulation_code".   
-Results in Table 6: 
-- ZI_default.ipynb...default  
-- ZI_small.ipynb...small market  
-- ZI_large_1.ipynb...large market 1  
-- ZI_large_comp.ipynb...large market 2, 3, 4, 5   
-Results in Table 9:  
-- ZI_unsorted.ipynb...row 3  
-- ZI_random_draw.ipynb...row 4  
-- ZI_iteration.ipynb...row 5  
-- ZI_uniform.ipynb...row 6  
+    Go to the folder "code/simulation_code".   
+    
+    Results in Table 6: 
+    - ZI_default.ipynb...default  
+    - ZI_small.ipynb...small market  
+    - ZI_large_1.ipynb...large market 1  
+    - ZI_large_comp.ipynb...large market 2, 3, 4, 5
+    
+    Results in Table 9:  
+    - ZI_unsorted.ipynb...row 3  
+    - ZI_random_draw.ipynb...row 4  
+    - ZI_iteration.ipynb...row 5  
+    - ZI_uniform.ipynb...row 6  
 
 2. data visualization  
 Run viz.Rmd for all the figures in the report.  
