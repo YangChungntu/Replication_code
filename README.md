@@ -31,6 +31,8 @@ a. Results in Table 6:
 -  ZI_small.ipynb...small market  
 - ZI_large_1.ipynb...large market 1  
 - ZI_large_comp.ipynb...large market 2, 3, 4, 5   
+
+
 b. Results in Table 9:  
 - ZI_unsorted.ipynb...row 3  
 - ZI_random_draw.ipynb...row 4  
