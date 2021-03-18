@@ -2,6 +2,8 @@
 
 ## Content  
 code:  
+> packages_functions.R  
+> viz.Rmd  
 > simulation_code:  
 >> ZI_default.ipynb 
 >> ZI_small.ipynb  
@@ -11,8 +13,7 @@ code:
 >> ZI_random_draw.ipynb 
 >> ZI_iteration.ipynb 
 >> ZI_uniform.ipynb.  
-> packages_functions.R  
-> viz.Rmd  
+
   
 data:  
 > simulation_output.dta  
