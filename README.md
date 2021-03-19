@@ -60,8 +60,8 @@ data:
 
 3. Data process
 - Run market_large.do to create the DTA file, market_large_configurations.dta. This file can be found in the folder "data" as well.  
-  - Runing this do file requires the DTA file, market.dta from Lin et al on OSF (https://osf.io/3grmn/)
+  - Runing this do file requires the DTA file, market.dta from Lin et al. on OSF (https://osf.io/3grmn/).
 - Two other DTA files, market_aggregate_large.dta and market_aggregate_large.dta, are created using the code from Lin et al.
 
 Refferences:  
-http://people.brandeis.edu/~blebaron/classes/agentfin/GodeSunder.html
+ZI simulation: http://people.brandeis.edu/~blebaron/classes/agentfin/GodeSunder.html
