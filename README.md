@@ -33,22 +33,30 @@ data:
 
 ## Procedure
 
-- Run ZI_default.ipynb for results in Table 6, Raw 1 (default)  
-- ZI_small.ipynb...small market  
-- ZI_large_1.ipynb...large market 1  
-- ZI_large_comp.ipynb...large market 2, 3, 4, 5
+- Run ZI_default.ipynb for results in Table 6, Raw 1, and Table 9, Raw 2 (Default)  
+  - simulation_output.dta will be created.   
+- Run ZI_small.ipynb for results in Table 6, Raw 2 (Small Market)   
+  - simulation_output_small.dta will be created. 
+- Run ZI_large_1.ipynb for results in Table 6, Raw 3 (Large Market 1)  
+  - simulation_output_large_1.dta will be created. 
+- Run ZI_large_comp.ipynb for results in rest of the raws of Table 6 (Large Market 2, 3, 4, 5)   
+  - simulation_output_large_2.dta, simulation_output_large_3.dta, simulation_output_large_4.dta, and simulation_output_large_5.dta will be created.        
     
-    Results in Table 9:  
-    - ZI_unsorted.ipynb...row 3  
-    - ZI_random_draw.ipynb...row 4  
-    - ZI_iteration.ipynb...row 5  
-    - ZI_uniform.ipynb...row 6  
+
+- Run ZI_unsorted.ipynb for results in Table 9, Raw 3 (Unsorted v & c)
+  - simulation_output_unsorted.dta will be created.   
+- Run ZI_random_draw.ipynb for results in Table 9, Raw 4 (Redraw v & c)  
+  - simulation_output_random_draw.dta will be created.   
+- Run ZI_iteration.ipynb for results in Table 9, Raw 5 & 6 (Iterate 200 & Iterate 100)  
+  - simulation_output_iteration200.dta & simulation_output_iteration100.dta will be created.    
+- Run ZI_uniform.ipynb for results in Table 9, Raw 7 (Uniform) 
+  - simulation_output_unform.dta will be created.     
 
 2. data visualization  
-Run viz.Rmd for all the figures in the report.  
-packages_functions.R...packege setting and functions for viz.Rmd
+- Run viz.Rmd for all the figures in the report.  
+  - packages_functions.R helps packege setting and contains functions for viz.Rmd
 
-The folder "data" contains data needed in viz.Rmd. "market_large_configurations.dta", "market_aggregate_large.dta", and "market_aggregate_large.dta" are processed version of data from Lin et al. All other data are ZI simulation results that can be generate using our code.  
+The folder "data" contains data needed in viz.Rmd. Three DTA files, "market_large_configurations.dta", "market_aggregate_large.dta", and "market_aggregate_large.dta" are processed version of data from Lin et al. All other data are ZI simulation results that can be generate using our code.  
 
 Refferences:  
 http://people.brandeis.edu/~blebaron/classes/agentfin/GodeSunder.html
