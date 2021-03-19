@@ -24,7 +24,7 @@ data:
 > simulation_output_large_4.dta  
 > simulation_output_large_5.dta  
 > market_large_configurations.dta  
-> market_aggregate_large.dta
+> market_aggregate_large.dta   
 > market_aggregate_small.dta
 
 ## Enviroment  
