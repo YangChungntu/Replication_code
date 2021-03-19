@@ -24,6 +24,8 @@ data:
 > simulation_output_large_4.dta  
 > simulation_output_large_5.dta  
 > market_large_configurations.dta  
+> market_aggregate_large.dta
+> market_aggregate_small.dta
 
 ## Enviroment  
 Python 3.8.5  
@@ -50,7 +52,7 @@ R      4.0.3
 Run viz.Rmd for all the figures in the report.  
 packages_functions.R...packege setting and functions for viz.Rmd
 
-The folder "data" contains data needed in viz.Rmd. "market_large_configurations.dta" is a processed version of data from Lin et al. All other data are ZI simulation results that can be generate using our code.  
+The folder "data" contains data needed in viz.Rmd. "market_large_configurations.dta", "market_aggregate_large.dta", and "market_aggregate_large.dta" are processed version of data from Lin et al. All other data are ZI simulation results that can be generate using our code.  
 
 Refferences:  
 http://people.brandeis.edu/~blebaron/classes/agentfin/GodeSunder.html
