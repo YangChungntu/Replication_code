@@ -4,7 +4,7 @@
 code:  
 > packages_functions.R  
 > viz.Rmd  
-> market_large.do
+> market_large.do   
 > simulation_code:  
 >> ZI_default.ipynb 
 >> ZI_small.ipynb  
