@@ -4,6 +4,7 @@
 code:  
 > packages_functions.R  
 > viz.Rmd  
+> market_large.do
 > simulation_code:  
 >> ZI_default.ipynb 
 >> ZI_small.ipynb  
@@ -29,10 +30,11 @@ data:
 
 ## Enviroment  
 - Python 3.8.5  
-- R      4.0.3  
+- R      4.0.3 
+- Stata  14.1 
 
 ## Procedure
-
+1. Zero-intelligence Simulation
 - Run ZI_default.ipynb for results in Table 6, Raw 1, and Table 9, Raw 2 (Default)  
   - simulation_output.dta will be created.   
 - Run ZI_small.ipynb for results in Table 6, Raw 2 (Small Market)   
@@ -52,11 +54,14 @@ data:
 - Run ZI_uniform.ipynb for results in Table 9, Raw 7 (Uniform) 
   - simulation_output_unform.dta will be created.     
 
-2. data visualization  
+2. Data visualization  
 - Run viz.Rmd for all the figures in the report.  
   - packages_functions.R helps packege setting and contains functions for viz.Rmd
 
-The folder "data" contains data needed in viz.Rmd. Three DTA files, "market_large_configurations.dta", "market_aggregate_large.dta", and "market_aggregate_large.dta" are processed version of data from Lin et al. All other data are ZI simulation results that can be generate using our code.  
+3. Data process
+- Run market_large.do to create the DTA file, market_large_configurations.dta. This file can be found in the folder "data" as well.  
+  - Runing this do file requires the DTA file, market.dta from Lin et al on OSF (https://osf.io/3grmn/)
+- Two other DTA files, market_aggregate_large.dta and market_aggregate_large.dta, are created using the code from Lin et al.
 
 Refferences:  
 http://people.brandeis.edu/~blebaron/classes/agentfin/GodeSunder.html
