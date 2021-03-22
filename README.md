@@ -41,23 +41,23 @@ data:
 
 
 2. Zero-intelligence Simulation
-- Run ZI_default.ipynb for results in Table 6, Raw 1, and Table 9, Raw 2 (Default)  
+- ZI_default.ipynb generates simulation_output.dta, containing results in raw 1 of Table 6 and row 2 of Table 9(Default)  
   - simulation_output.dta will be created.   
-- Run ZI_small.ipynb for results in Table 6, Raw 2 (Small Market)   
+- Run ZI_small.ipynb for results in Table 6, Row 2 (Small Market)   
   - simulation_output_small.dta will be created. 
-- Run ZI_large_1.ipynb for results in Table 6, Raw 3 (Large Market 1)  
+- Run ZI_large_1.ipynb for results in Table 6, Row 3 (Large Market 1)  
   - simulation_output_large_1.dta will be created. 
 - Run ZI_large_comp.ipynb for results in rest of the raws of Table 6 (Large Market 2, 3, 4, 5)   
   - simulation_output_large_2.dta, simulation_output_large_3.dta, simulation_output_large_4.dta, and simulation_output_large_5.dta will be created.        
     
 
-- Run ZI_unsorted.ipynb for results in Table 9, Raw 3 (Unsorted v & c)
+- Run ZI_unsorted.ipynb for results in Table 9, Row 3 (Unsorted v & c)
   - simulation_output_unsorted.dta will be created.   
-- Run ZI_random_draw.ipynb for results in Table 9, Raw 4 (Redraw v & c)  
+- Run ZI_random_draw.ipynb for results in Table 9, Row 4 (Redraw v & c)  
   - simulation_output_random_draw.dta will be created.   
-- Run ZI_iteration.ipynb for results in Table 9, Raw 5 & 6 (Iterate 200 & Iterate 100)  
+- Run ZI_iteration.ipynb for results in Table 9, Row 5 & 6 (Iterate 200 & Iterate 100)  
   - simulation_output_iteration200.dta & simulation_output_iteration100.dta will be created.    
-- Run ZI_uniform.ipynb for results in Table 9, Raw 7 (Uniform) 
+- Run ZI_uniform.ipynb for results in Table 9, Row 7 (Uniform) 
   - simulation_output_unform.dta will be created.     
 
 3. Data visualization  
