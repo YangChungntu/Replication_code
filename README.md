@@ -67,5 +67,6 @@ data:
 
 
 Refferences:  
+Lin, P.-H., Brown, A. L., Imai, T., Wang, J. T.-y., Wang, S. W. & Camerer, C. F. (2020), ‘Evidence of general economic principles of bargaining and trade from 2,000 classroom ex-periments’, Nature Human Behaviour4(9), 917–927.
 ZI simulation: http://people.brandeis.edu/~blebaron/classes/agentfin/GodeSunder.html
 
