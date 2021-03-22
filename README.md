@@ -62,17 +62,17 @@ data:
 
 3. Data visualization  
 - Run viz.Rmd for all the figures in the report, which requires: 
-  - packages_functions.R: package setting and functions
-  - simulation_output.dta
-  - simulation_output_small.dta   
-  - simulation_output_large_1.dta   
-  - simulation_output_large_2.dta  
-  - simulation_output_large_3.dta   
-  - simulation_output_large_4.dta   
-  - simulation_output_large_5.dta   
-  - market_large_configurations.dta  
-  - market_aggregate_large.dta   
-  - market_aggregate_small.dta.  
+  > packages_functions.R: package setting and functions
+  > simulation_output.dta
+  > simulation_output_small.dta   
+  > simulation_output_large_1.dta   
+  > simulation_output_large_2.dta  
+  > simulation_output_large_3.dta   
+  > simulation_output_large_4.dta   
+  > simulation_output_large_5.dta   
+  > market_large_configurations.dta  
+  > market_aggregate_large.dta   
+  > market_aggregate_small.dta   
 
 
 Refferences:  
