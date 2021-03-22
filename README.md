@@ -41,8 +41,7 @@ data:
 
 
 2. Zero-intelligence Simulation
-- ZI_default.ipynb generates simulation_output.dta, containing results in raw 1 of Table 6 and row 2 of Table 9(Default)  
-  - simulation_output.dta will be created.   
+- ZI_default.ipynb generates simulation_output.dta, containing results in raw 1 of Table 6 and row 2 of Table 9 (Default).    
 - Run ZI_small.ipynb for results in Table 6, Row 2 (Small Market)   
   - simulation_output_small.dta will be created. 
 - Run ZI_large_1.ipynb for results in Table 6, Row 3 (Large Market 1)  
