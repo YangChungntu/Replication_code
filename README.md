@@ -34,7 +34,13 @@ data:
 - Stata  14.1 
 
 ## Procedure
-1. Zero-intelligence Simulation
+1. Data process
+- Download market.dta and market_size.do from Lin et al. on OSF (https://osf.io/3grmn/).
+- Run market_size.do to generate market_aggregate_large.dta and market_aggregate_large.dta.   
+- Run market_large.do to create the DTA file, market_large_configurations.dta. This file can be found in the folder "data" as well.  
+
+
+2. Zero-intelligence Simulation
 - Run ZI_default.ipynb for results in Table 6, Raw 1, and Table 9, Raw 2 (Default)  
   - simulation_output.dta will be created.   
 - Run ZI_small.ipynb for results in Table 6, Raw 2 (Small Market)   
@@ -54,14 +60,20 @@ data:
 - Run ZI_uniform.ipynb for results in Table 9, Raw 7 (Uniform) 
   - simulation_output_unform.dta will be created.     
 
-2. Data visualization  
-- Run viz.Rmd for all the figures in the report.  
-  - packages_functions.R helps packege setting and contains functions for viz.Rmd
+3. Data visualization  
+- Run viz.Rmd for all the figures in the report, which requires: 
+  - packages_functions.R: package setting and functions
+  - simulation_output.dta
+  - simulation_output_small.dta   
+  - simulation_output_large_1.dta   
+  - simulation_output_large_2.dta  
+  - simulation_output_large_3.dta   
+  - simulation_output_large_4.dta   
+  - simulation_output_large_5.dta   
+  - market_large_configurations.dta  
+  - market_aggregate_large.dta   
+  - market_aggregate_small.dta.  
 
-3. Data process
-- Run market_large.do to create the DTA file, market_large_configurations.dta. This file can be found in the folder "data" as well.  
-  - Runing this do file requires the DTA file, market.dta from Lin et al. on OSF (https://osf.io/3grmn/).
-- Two other DTA files, market_aggregate_large.dta and market_aggregate_large.dta, are created using the code from Lin et al.
 
 Refferences:  
 ZI simulation: http://people.brandeis.edu/~blebaron/classes/agentfin/GodeSunder.html
