@@ -66,9 +66,9 @@ data:
   > market_aggregate_small.dta   
 
 
-Refferences:  
-Lin, P.-H., Brown, A. L., Imai, T., Wang, J. T.-y., Wang, S. W. & Camerer, C. F. (2020), ‘Evidence of general economic principles of bargaining and trade from 2,000 classroom ex-periments’, Nature Human Behaviour4(9), 917–927.    
-Cason, T. N. & Friedman, D. (1996), ‘Price formation in double auction markets’, Journal of Economic Dynamics and Control 20(8), 1307–1337.    
-Friedman, D. (1991), ‘A simple testable model of double auction markets’, Journal of EconomicBehavior & Organization 15(1), 47–70.    
-LeBaron, B. (2020), ‘Zero Intelligence Traders: Gode and Sunder (1993)’ [Online]. Available at: http://people.brandeis.edu/~blebaron/classes/agentfin/GodeSunder.html (Accessed: 22 March 2021).    
+## Refferences  
+1. Lin, P.-H., Brown, A. L., Imai, T., Wang, J. T.-y., Wang, S. W. & Camerer, C. F. (2020), ‘Evidence of general economic principles of bargaining and trade from 2,000 classroom ex-periments’, Nature Human Behaviour4(9), 917–927.    
+2. Cason, T. N. & Friedman, D. (1996), ‘Price formation in double auction markets’, Journal of Economic Dynamics and Control 20(8), 1307–1337.    
+3. Friedman, D. (1991), ‘A simple testable model of double auction markets’, Journal of EconomicBehavior & Organization 15(1), 47–70.    
+4. LeBaron, B. (2020), ‘Zero Intelligence Traders: Gode and Sunder (1993)’ [Online]. Available at: http://people.brandeis.edu/~blebaron/classes/agentfin/GodeSunder.html (Accessed: 22 March 2021).    
 
